@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1700047912749,
+  "timestamp": 1700069194786,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "/927.4c7fbba2dafdd254.js",
+        "/927.9b0e9ef991bf26c6.js",
         "/favicon.ico",
         "/index.html",
         "/main.d1f83f4aaa2c0796.js",
         "/manifest.webmanifest",
         "/polyfills.4e1de369d2598716.js",
-        "/runtime.d23685f285c3e71e.js",
+        "/runtime.db7a09a48ba11ba5.js",
         "/styles.ad882a3dd46cbca7.css"
       ],
       "patterns": []
@@ -1529,7 +1529,7 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/927.4c7fbba2dafdd254.js": "37e3ba139cd5066c9b44372124c4222353411780",
+    "/927.9b0e9ef991bf26c6.js": "6d3580fa8e552333244b36be8801a3dcdd37ee6b",
     "/Poppins-Bold.3b6def8cef97005c.ttf": "b9b65c039a1f10a5cb5e0726c6e7e18e98a8e517",
     "/Poppins-BoldItalic.43c9dce85098452e.ttf": "5b2f8f7c4bbd52b6a1948c9781b45b17d31430ea",
     "/Poppins-Italic.1d618e7c034d2065.ttf": "597eeb5ac2ce09c6f57ee14457a91be9e4a826cd",
@@ -1675,7 +1675,7 @@
     "/assets/apanel/images/users/avatar-7.jpg": "7d20b491a7a2c70113b765cac41f60b9abe28dcf",
     "/assets/apanel/images/users/avatar-8.jpg": "4448052e4311c8de773eda4db497104be9a7175d",
     "/assets/apanel/images/verification-img.png": "d5bfe83044859bea1aac00a2adedef25d8bf0331",
-    "/assets/apanel/js/app.js": "91591a8f63ba5c1a3b1066ac4a83289b410a9394",
+    "/assets/apanel/js/app.js": "bb73200e17381abc14861b5c7ea315d185885c34",
     "/assets/apanel/js/pages/alerts.init.js": "caa19bf1d26940f520810978837c6696813a0e9b",
     "/assets/apanel/js/pages/apexcharts.init.js": "4a2a8ccabeae15c4207cb7bdbcaca1c3693643c6",
     "/assets/apanel/js/pages/auth-2-carousel.init.js": "67aed26ca7db51e6ea84d37741d673a151c84bcc",
@@ -1742,7 +1742,7 @@
     "/assets/apanel/js/pages/two-step-verification.init.js": "19bf47efb16f5c0d98c1be93004f1d7c97fd7371",
     "/assets/apanel/js/pages/validation.init.js": "90f0cd33824fafdb7d2b5c4153f9eca121aa4d24",
     "/assets/apanel/js/pages/vector-maps.init.js": "dab762bff9ac7a154f099cda6b9a7c280247d35c",
-    "/assets/apanel/js/plugin.js": "c77b2de6b501b74f053b7845083c6c3314cbcb19",
+    "/assets/apanel/js/plugin.js": "dc0b5d170b0eb39bcf5e18eac6c932f1ac501ccf",
     "/assets/apanel/lang/en.json": "25c12e273901d8d20bf033e7692188a7a2f4e13e",
     "/assets/apanel/lang/gr.json": "95f5953a998d17f778c00feabaf7004752e1d40e",
     "/assets/apanel/lang/it.json": "10f499e6ba87df985435eafea2b9c4ff95a0882a",
@@ -3023,12 +3023,12 @@
     "/assets/img/youtube-reviews/youtube-review-5.png": "69a31b120df57cf7b75a707dbcc1af41f5a87625",
     "/assets/img/youtube-reviews/youtube-review.png": "92f5001b63e165acb6a23ca43dcec0732700d8d5",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "64d2b871cb7536f0ec06980fdca648b11266c3f9",
+    "/index.html": "457e54aaa381b4f6325ac848a76902f093398121",
     "/main.d1f83f4aaa2c0796.js": "5cac22e59f8d90778823d658cc77c04391bf9bbc",
     "/manifest.webmanifest": "23f0dd9f1e5be7f6547870743bac07ee03e0e0c3",
     "/owl.video.play.e3b436436832b027.png": "c0d64356ec2758cb280d183b4829c923e5ff61e5",
     "/polyfills.4e1de369d2598716.js": "36fdde49a74a17a68f47b9b1c08bed3b27f21e9c",
-    "/runtime.d23685f285c3e71e.js": "a138b6219625b2270e99b0fadb9fc848e86f0ba9",
+    "/runtime.db7a09a48ba11ba5.js": "cacdcfa02a5fb41dd9a2aab874016990a70c390b",
     "/styles.ad882a3dd46cbca7.css": "bf8dc8982c45eb8ea1f095f21b625516f97dabd2"
   },
   "navigationUrls": [
