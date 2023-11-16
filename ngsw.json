@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1700130591380,
+  "timestamp": 1700144045355,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "/927.fbc4fd5452ac45f8.js",
+        "/927.c2f38ea0935bb8a8.js",
         "/favicon.ico",
         "/index.html",
-        "/main.9b0805227d9b95bf.js",
+        "/main.e7a37117c0d6ba9c.js",
         "/manifest.webmanifest",
         "/polyfills.4e1de369d2598716.js",
-        "/runtime.927713dfa698fdf5.js",
+        "/runtime.d1604906fc3878b3.js",
         "/styles.ad882a3dd46cbca7.css"
       ],
       "patterns": []
@@ -1530,7 +1530,7 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/927.fbc4fd5452ac45f8.js": "b4c452e54f65388b986cfc5cf4b18d32f58dfcaa",
+    "/927.c2f38ea0935bb8a8.js": "a8df4c2bba52dfc41debd61913ca33ec85e38961",
     "/Poppins-Bold.3b6def8cef97005c.ttf": "b9b65c039a1f10a5cb5e0726c6e7e18e98a8e517",
     "/Poppins-BoldItalic.43c9dce85098452e.ttf": "5b2f8f7c4bbd52b6a1948c9781b45b17d31430ea",
     "/Poppins-Italic.1d618e7c034d2065.ttf": "597eeb5ac2ce09c6f57ee14457a91be9e4a826cd",
@@ -1626,7 +1626,7 @@
     "/assets/apanel/images/crypto/features-img/img-1.png": "b9bb9a046e6048938109557be9ff7d18d5b8792a",
     "/assets/apanel/images/crypto/features-img/img-2.png": "33592ff7ef28d1f16eaeecaacb3db93607e90865",
     "/assets/apanel/images/error-img.png": "bc023b2f6fe55863e06ee772fbb323dff74c66c7",
-    "/assets/apanel/images/favicon.ico": "d91656ffe88334591da7d50ee097664b704870d1",
+    "/assets/apanel/images/favicon.ico": "e441c87b196f1392f882f38dd072bcf82a036b22",
     "/assets/apanel/images/flags/french.jpg": "8bb332806abc35eba3bd5d13accf4e72d7b82521",
     "/assets/apanel/images/flags/germany.jpg": "9e605d46e9b77bfdfff8d868a803a4a2b45ddc02",
     "/assets/apanel/images/flags/italy.jpg": "67c8800e8efca9617a32ed35235245fc2a5128ea",
@@ -3025,12 +3025,12 @@
     "/assets/img/youtube-reviews/youtube-review-5.png": "69a31b120df57cf7b75a707dbcc1af41f5a87625",
     "/assets/img/youtube-reviews/youtube-review.png": "92f5001b63e165acb6a23ca43dcec0732700d8d5",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "603863dab6078ba2bb941252cd9bca4c1651a1b8",
-    "/main.9b0805227d9b95bf.js": "6cd7139e0bcd435b09efbc0c5185d4d77155b2e9",
+    "/index.html": "8da3dd1152d07695c1e1af7874a34c1756351a53",
+    "/main.e7a37117c0d6ba9c.js": "d4dfc22cdcae866f601a0540aa47d4f0cdf1493b",
     "/manifest.webmanifest": "23f0dd9f1e5be7f6547870743bac07ee03e0e0c3",
     "/owl.video.play.e3b436436832b027.png": "c0d64356ec2758cb280d183b4829c923e5ff61e5",
     "/polyfills.4e1de369d2598716.js": "36fdde49a74a17a68f47b9b1c08bed3b27f21e9c",
-    "/runtime.927713dfa698fdf5.js": "6c5ce69fac0cca2ab011e536a7aa27b2aeaeea68",
+    "/runtime.d1604906fc3878b3.js": "0c135851ac23111afb84aebff24db4d1b8eae858",
     "/styles.ad882a3dd46cbca7.css": "bf8dc8982c45eb8ea1f095f21b625516f97dabd2"
   },
   "navigationUrls": [
