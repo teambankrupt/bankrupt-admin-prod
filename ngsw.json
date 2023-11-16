@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1700115699076,
+  "timestamp": 1700118145723,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "/927.8b27ebde267d0d55.js",
+        "/927.65378e49e51f5cb2.js",
         "/favicon.ico",
         "/index.html",
-        "/main.d1f83f4aaa2c0796.js",
+        "/main.293b787de36ae138.js",
         "/manifest.webmanifest",
         "/polyfills.4e1de369d2598716.js",
-        "/runtime.a65b8ff24ef3d943.js",
+        "/runtime.4abd83f9bd68c2a4.js",
         "/styles.ad882a3dd46cbca7.css"
       ],
       "patterns": []
@@ -1445,6 +1445,7 @@
         "/assets/images/logo-dark.png",
         "/assets/images/logo-light.png",
         "/assets/images/logo-light.svg",
+        "/assets/images/logo-transparent.svg",
         "/assets/images/logo.svg",
         "/assets/images/maintenance.svg",
         "/assets/images/megamenu-img.png",
@@ -1529,7 +1530,7 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/927.8b27ebde267d0d55.js": "60cc2b8faadc0d1bd56cb182a474b40ee4ebf6bb",
+    "/927.65378e49e51f5cb2.js": "315213030ae923e9aa9b6282fd60e339d0a4f5d5",
     "/Poppins-Bold.3b6def8cef97005c.ttf": "b9b65c039a1f10a5cb5e0726c6e7e18e98a8e517",
     "/Poppins-BoldItalic.43c9dce85098452e.ttf": "5b2f8f7c4bbd52b6a1948c9781b45b17d31430ea",
     "/Poppins-Italic.1d618e7c034d2065.ttf": "597eeb5ac2ce09c6f57ee14457a91be9e4a826cd",
@@ -2945,6 +2946,7 @@
     "/assets/images/logo-dark.png": "613a0ec5b7642d1441c96840055753166404c47f",
     "/assets/images/logo-light.png": "b393c272d13f3de8c92e5ab1801d24c3be9fcaab",
     "/assets/images/logo-light.svg": "f71772a596bac67b2ee6c89103fd169734721539",
+    "/assets/images/logo-transparent.svg": "482a592effdffa22f85d7c20d11d347785ab2a09",
     "/assets/images/logo.svg": "bdfd046a50bb00e293794a42329b66d088e79eaf",
     "/assets/images/maintenance.svg": "76e4a885aa8935ac98d1d560305b8577a7b90806",
     "/assets/images/megamenu-img.png": "7b6f840a7ea9c6e934c1ea0cb9af28197b3d7766",
@@ -3023,12 +3025,12 @@
     "/assets/img/youtube-reviews/youtube-review-5.png": "69a31b120df57cf7b75a707dbcc1af41f5a87625",
     "/assets/img/youtube-reviews/youtube-review.png": "92f5001b63e165acb6a23ca43dcec0732700d8d5",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "b50dc10d1bed844060f3dbb1281a2bae86de747c",
-    "/main.d1f83f4aaa2c0796.js": "5cac22e59f8d90778823d658cc77c04391bf9bbc",
+    "/index.html": "92419dca173de0a6ed31f32cbeb613f68d31857d",
+    "/main.293b787de36ae138.js": "4e087b279c612d179428087dd3d14f8af4d87a39",
     "/manifest.webmanifest": "23f0dd9f1e5be7f6547870743bac07ee03e0e0c3",
     "/owl.video.play.e3b436436832b027.png": "c0d64356ec2758cb280d183b4829c923e5ff61e5",
     "/polyfills.4e1de369d2598716.js": "36fdde49a74a17a68f47b9b1c08bed3b27f21e9c",
-    "/runtime.a65b8ff24ef3d943.js": "3b16de1baf28c9b452bb85b20107337b3ce1b0d3",
+    "/runtime.4abd83f9bd68c2a4.js": "290b40d1f1836d4c26a3b461cd9853c122d212f0",
     "/styles.ad882a3dd46cbca7.css": "bf8dc8982c45eb8ea1f095f21b625516f97dabd2"
   },
   "navigationUrls": [
