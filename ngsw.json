@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1701722453197,
+  "timestamp": 1701771311933,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "/836.c816ace0607542c7.js",
+        "/885.6df15fb521936a7b.js",
         "/favicon.ico",
         "/index.html",
-        "/main.f8704a0dee3bf25d.js",
+        "/main.269ac3882882447c.js",
         "/manifest.webmanifest",
         "/polyfills.4e1de369d2598716.js",
-        "/runtime.d409155c3080dbed.js",
+        "/runtime.42cad25fc58a3a02.js",
         "/styles.11770800f4082794.css"
       ],
       "patterns": []
@@ -1530,7 +1530,7 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/836.c816ace0607542c7.js": "a176fd4bc977691dbad93907a13a813a2e529f0e",
+    "/885.6df15fb521936a7b.js": "cb012d1e97c5c8d9a0bbbe937d1d14c5c5bff1aa",
     "/Poppins-Bold.3b6def8cef97005c.ttf": "b9b65c039a1f10a5cb5e0726c6e7e18e98a8e517",
     "/Poppins-BoldItalic.43c9dce85098452e.ttf": "5b2f8f7c4bbd52b6a1948c9781b45b17d31430ea",
     "/Poppins-Italic.1d618e7c034d2065.ttf": "597eeb5ac2ce09c6f57ee14457a91be9e4a826cd",
@@ -3025,12 +3025,12 @@
     "/assets/img/youtube-reviews/youtube-review-5.png": "69a31b120df57cf7b75a707dbcc1af41f5a87625",
     "/assets/img/youtube-reviews/youtube-review.png": "92f5001b63e165acb6a23ca43dcec0732700d8d5",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "a3e578c7d29feb7112e4f442d6da64999e49c4a6",
-    "/main.f8704a0dee3bf25d.js": "7db100c2e55bbccb84c4ddb29b66a8812142c7e3",
+    "/index.html": "6539af0dad6b23f12b918b87e6b40922cce7a413",
+    "/main.269ac3882882447c.js": "d5060163ffa581a667ddd9d0d63268a7031b91a1",
     "/manifest.webmanifest": "23f0dd9f1e5be7f6547870743bac07ee03e0e0c3",
     "/owl.video.play.e3b436436832b027.png": "c0d64356ec2758cb280d183b4829c923e5ff61e5",
     "/polyfills.4e1de369d2598716.js": "36fdde49a74a17a68f47b9b1c08bed3b27f21e9c",
-    "/runtime.d409155c3080dbed.js": "2d6e27410ee3d20d027cfbaedaea50ca8df56ec3",
+    "/runtime.42cad25fc58a3a02.js": "430a9710462b46681b9ab41f013ebc435f2b6d8d",
     "/styles.11770800f4082794.css": "1c7b14bbe1ff914f0311a1d52ff554702c1ac1ab"
   },
   "navigationUrls": [
