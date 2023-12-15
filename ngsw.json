@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1702645224720,
+  "timestamp": 1702667835970,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -11,14 +11,14 @@
         "ignoreVary": true
       },
       "urls": [
-        "/183.0b4f8b603a3e275b.js",
-        "/976.be215183726082a6.js",
+        "/764.fd145fbf7d6f1228.js",
+        "/899.61542989526c3117.js",
         "/favicon.ico",
         "/index.html",
-        "/main.24d7f04c19b1d37f.js",
+        "/main.d3e8e14ece13e800.js",
         "/manifest.webmanifest",
         "/polyfills.4e1de369d2598716.js",
-        "/runtime.881321295d117819.js",
+        "/runtime.663e377d6c12fa25.js",
         "/styles.11770800f4082794.css"
       ],
       "patterns": []
@@ -1531,8 +1531,8 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/183.0b4f8b603a3e275b.js": "20259731e0c769ba0db53dcf6762d467165796ed",
-    "/976.be215183726082a6.js": "aa2f427ba9049345ec9fd5d95ec0b99b4cb6392c",
+    "/764.fd145fbf7d6f1228.js": "942fe34e79b806f378117e2e1843e8bcba41168b",
+    "/899.61542989526c3117.js": "f6228817df9ab27f863523823c9e77a15ca6889b",
     "/Poppins-Bold.3b6def8cef97005c.ttf": "b9b65c039a1f10a5cb5e0726c6e7e18e98a8e517",
     "/Poppins-BoldItalic.43c9dce85098452e.ttf": "5b2f8f7c4bbd52b6a1948c9781b45b17d31430ea",
     "/Poppins-Italic.1d618e7c034d2065.ttf": "597eeb5ac2ce09c6f57ee14457a91be9e4a826cd",
@@ -3027,12 +3027,12 @@
     "/assets/img/youtube-reviews/youtube-review-5.png": "69a31b120df57cf7b75a707dbcc1af41f5a87625",
     "/assets/img/youtube-reviews/youtube-review.png": "92f5001b63e165acb6a23ca43dcec0732700d8d5",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "1cf5ddb93337d6a411a6bf074c131e3c2521befc",
-    "/main.24d7f04c19b1d37f.js": "92f74f8a6ad57b7c33d56bae859d051a3084525c",
+    "/index.html": "27e76da81885ac95dec3863ec57191276b9b3137",
+    "/main.d3e8e14ece13e800.js": "f0777233b7151b9aef137c620a33342da79b0a1c",
     "/manifest.webmanifest": "23f0dd9f1e5be7f6547870743bac07ee03e0e0c3",
     "/owl.video.play.e3b436436832b027.png": "c0d64356ec2758cb280d183b4829c923e5ff61e5",
     "/polyfills.4e1de369d2598716.js": "36fdde49a74a17a68f47b9b1c08bed3b27f21e9c",
-    "/runtime.881321295d117819.js": "6dcedd3c0a219dd3188d8d1d7c3c7a3cc8769dbe",
+    "/runtime.663e377d6c12fa25.js": "0cbcf5117ef6bf50e21e327e7218096e8c58d302",
     "/styles.11770800f4082794.css": "1c7b14bbe1ff914f0311a1d52ff554702c1ac1ab"
   },
   "navigationUrls": [
