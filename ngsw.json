@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1702982589829,
+  "timestamp": 1702983113342,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -11,14 +11,14 @@
         "ignoreVary": true
       },
       "urls": [
-        "/237.0b62da0f68f06a71.js",
+        "/237.8bdf9e6c1b188354.js",
         "/764.4f2b35d381a2478e.js",
         "/favicon.ico",
         "/index.html",
         "/main.93c05ad4511342f1.js",
         "/manifest.webmanifest",
         "/polyfills.727cf5575891b83a.js",
-        "/runtime.34bfd96e6c898bde.js",
+        "/runtime.1d8ae6d73237ce18.js",
         "/styles.acffef1f0a2d46d1.css"
       ],
       "patterns": []
@@ -1441,7 +1441,7 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/237.0b62da0f68f06a71.js": "20b887e40ae5b86da8c0cfc4c69b6e4db534c229",
+    "/237.8bdf9e6c1b188354.js": "0cbd6e20734be98efcfc954c4c382d5bb23e65e4",
     "/764.4f2b35d381a2478e.js": "aa869a059a76655837c28392df5bd2b590691c2f",
     "/Poppins-Bold.3b6def8cef97005c.ttf": "b9b65c039a1f10a5cb5e0726c6e7e18e98a8e517",
     "/Poppins-BoldItalic.43c9dce85098452e.ttf": "5b2f8f7c4bbd52b6a1948c9781b45b17d31430ea",
@@ -2847,12 +2847,12 @@
     "/assets/img/youtube-reviews/youtube-review-5.png": "69a31b120df57cf7b75a707dbcc1af41f5a87625",
     "/assets/img/youtube-reviews/youtube-review.png": "92f5001b63e165acb6a23ca43dcec0732700d8d5",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "5a14987605cb6ca916a36cea876ade4663510986",
+    "/index.html": "624107df68d6a3a402e0cc143757fd82d90b18de",
     "/main.93c05ad4511342f1.js": "63daf6db40aa01173a63c1e3c099738dfb61dd08",
     "/manifest.webmanifest": "23f0dd9f1e5be7f6547870743bac07ee03e0e0c3",
     "/owl.video.play.e3b436436832b027.png": "c0d64356ec2758cb280d183b4829c923e5ff61e5",
     "/polyfills.727cf5575891b83a.js": "f2a631415514c063ec3a36a1379cb974ead0bcb9",
-    "/runtime.34bfd96e6c898bde.js": "55c17c5a0b26a8c6ef19613d1547cd9ee1df6fff",
+    "/runtime.1d8ae6d73237ce18.js": "5635f7ba25140f9ba79f7c1b016b5b95b3c287d9",
     "/styles.acffef1f0a2d46d1.css": "d83928166b91480ce164ea3e57da6bc85fc728ce"
   },
   "navigationUrls": [
